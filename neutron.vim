@@ -34,7 +34,7 @@ hi Normal         guibg=#f3f2ed guifg=#404040 gui=none
 
 hi Comment        guibg=#f3f2ed guifg=#bbbbbb gui=none
 
-hi Constant       guibg=#f3f2ed guifg=#555321 gui=none
+hi Constant       guibg=#f3f2ed guifg=#957301 gui=none
 hi String         guibg=#f3f2ed guifg=#a07060 gui=none
 hi Character      guibg=#f3f2ed guifg=#bb6245 gui=none
 hi Number         guibg=#f3f2ed guifg=#ba7222 gui=none
